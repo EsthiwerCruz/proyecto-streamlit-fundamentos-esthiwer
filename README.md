@@ -45,7 +45,7 @@ streamlit run app.py
 
 ## Enlaces
 
-Repositorio GitHub: *(colocar enlace del repositorio)*
+Repositorio GitHub: *https://github.com/EsthiwerCruz/proyecto-streamlit-fundamentos-esthiwer*
 Aplicación en Streamlit Cloud: *(colocar enlace cuando publiques la app)*
 
 ---
